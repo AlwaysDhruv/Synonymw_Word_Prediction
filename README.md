@@ -1,4 +1,4 @@
-# Synonymw: Word Prediction using a Recurrent Neural Network - RNNs
+# Synonymw: RNNs Implement From Scratch In C++
 
 Synonymw: Word Prediction is a C++ project that demonstrates word prediction by finding the nearest synonym for a given word. It uses a simple recurrent neural network (RNN) trained on a provided dataset of word pairs.
 
